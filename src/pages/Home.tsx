@@ -1,4 +1,4 @@
-import React from 'react';
+//import React from 'react';
 import { Calendar, MapPin, Users, Star, ArrowRight, Clock, Award } from 'lucide-react';
 
 const Home = () => {
